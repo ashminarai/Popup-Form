@@ -50,7 +50,7 @@ body{
 	height:100%;
 	position: absolute;
 	top:0;
-	display:flex;
+	display:none;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
@@ -88,10 +88,12 @@ body{
 	box-shadow: 6px 6px 20px -4px rgba(92, 91, 91, 0.5);
 
 }
-.close{
+.fa-times-circle{
 	position: absolute;
 	top: -15px;
 	right: -15px;
+	color:rgb(34, 34, 34);
+	cursor: pointer;
 }
 
 /* popup box CSS ends */
