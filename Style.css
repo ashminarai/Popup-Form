@@ -17,6 +17,7 @@ body{
 	left:50%;
 	transform:translate(-50%, -50%);
 	text-align:center;
+	border-radius: 35%;
 }
 .container h1{
 	margin-bottom: 40px;
@@ -62,9 +63,9 @@ body{
 	border-radius: 5px;
 	position: relative;
 }
-.popupbox .popup-content{
+/* .popupbox .popup-content{
 	display:flex;
-}
+} */
 .popup-content h4{
 	margin:20px;
 	font-family: arial;
@@ -75,9 +76,19 @@ body{
 	height:30px;
 	width: 70%;
 }
-input{
-	
+.log{
+	padding:20px;
+	margin-bottom:50px;
+	background-color: orange;
+	color:white;
+	padding:10px 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 5px;
+	box-shadow: 6px 6px 20px -4px rgba(92, 91, 91, 0.5);
+
 }
+
 
 /* popup box CSS ends */
 
