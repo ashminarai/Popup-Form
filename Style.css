@@ -43,7 +43,16 @@ body{
 /* container CSS ends */
 
 /* popup box CSS starts */
-
+.popupbox{
+	background: rgba(0,0,0,0.5);
+	width:100%;
+	height:100%;
+	position: absolute;
+	top:0;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
 
 /* popup box CSS ends */
 
