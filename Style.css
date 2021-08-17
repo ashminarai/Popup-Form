@@ -8,6 +8,9 @@ a{
 body{
 	background-color: lightgray;
 }
+
+/* container CSS starts */
+
 .container{
 	position:absolute;
 	top:50%;
@@ -36,3 +39,12 @@ body{
 	background-color:#F0BA6B;
 	color:rgb(255, 244, 223);
 }
+
+/* container CSS ends */
+
+/* popup box CSS starts */
+
+
+/* popup box CSS ends */
+
+
