@@ -28,4 +28,7 @@ body{
 	font-weight: 300;
 	border-radius: 5px;
 	text-transform: uppercase;
+	margin-top: 25px;
+	box-shadow: 6px 6px 20px -4px rgba(92, 91, 91, 0.5);
+	transition:0.4s;
 }
