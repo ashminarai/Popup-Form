@@ -53,6 +53,14 @@ body{
 	justify-content: center;
 	align-items: center;
 }
+.popup-content{
+	height:250px;
+	width:500px;
+	background: #fff;
+	padding:20px;
+	border-radius: 5px;
+
+}
 
 /* popup box CSS ends */
 
