@@ -52,6 +52,7 @@ body{
 	display:flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 .popup-content{
 	height:250px;
@@ -59,7 +60,23 @@ body{
 	background: #fff;
 	padding:20px;
 	border-radius: 5px;
-
+	position: relative;
+}
+.popupbox .popup-content{
+	display:flex;
+}
+.popup-content h4{
+	margin:20px;
+	font-family: arial;
+	color:navy;
+}
+.box{
+	margin:10px;
+	height:30px;
+	width: 70%;
+}
+input{
+	
 }
 
 /* popup box CSS ends */
